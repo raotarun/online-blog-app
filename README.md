@@ -1,1 +1,1 @@
-# online-blog-app
+# Dynamic-Blogging-WebApp
